@@ -1,0 +1,50 @@
+
+.title {
+    padding: 0 30rpx;
+}
+.swiper {
+    height: 300rpx;
+}
+.swiper-image {
+    height: 100%;
+}
+.item {
+    padding: 18rpx;
+    box-shadow: 0 2rpx 13rpx 0 rgba(51, 113, 205, 0.15);
+}
+.previewImage {
+    height: 230rpx;
+}
+.icon-dropDown {
+    margin-left: 12rpx;
+    width: 30rpx;
+    height: 30rpx;
+}
+.item-title {
+    width: 180rpx;
+}
+.title-text.active {
+    border-bottom: 3px solid #2d6dcc;
+    color: #2d6dcc;
+}
+.popup-box {
+    padding: 18rpx;
+    border-top-left-radius: 12rpx;
+    border-top-right-radius: 12rpx;
+}
+.condition-container {
+    -webkit-flex-wrap: wrap;
+            flex-wrap: wrap;
+}
+.condition.active {
+    color: #2d6dcc;
+    border: 1px solid #2d6dcc;
+}
+.condition {
+    width: calc(calc(100% / 3) - 20rpx);
+    margin: 10rpx;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+

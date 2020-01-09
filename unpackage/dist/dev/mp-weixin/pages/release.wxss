@@ -1,0 +1,17 @@
+
+.add-btn {
+    position: fixed;
+    bottom: 100rpx;
+    right: 30rpx;
+    padding: 0;
+    line-height: 0;
+    border-radius: 50%;
+}
+.add-btn::after {
+    border: none;
+}
+.icon-add {
+    width: 120rpx;
+    height: 120rpx;
+}
+

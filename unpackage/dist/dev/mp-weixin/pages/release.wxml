@@ -1,0 +1,1 @@
+<view class="root"><navigator class="add-btn" url="/pages/releaseInformation" hover-class="navigator-hover"><image class="icon-add" src="/static/imgs/icon-add.png"></image></navigator></view>

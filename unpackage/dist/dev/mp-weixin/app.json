@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/release",
+    "pages/index",
+    "pages/my",
+    "pages/details",
+    "pages/about",
+    "pages/businessCard",
+    "pages/follow",
+    "pages/releaseInformation",
+    "pages/userInfo"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#F7F7F7",
+    "color": "#929292",
+    "selectedColor": "#2D6DCC",
+    "list": [
+      {
+        "pagePath": "pages/index",
+        "iconPath": "/static/imgs/tab-car.png",
+        "selectedIconPath": "/static/imgs/tab-car-selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/release",
+        "iconPath": "/static/imgs/tab-release.png",
+        "selectedIconPath": "/static/imgs/tab-release-selected.png",
+        "text": "发布"
+      },
+      {
+        "pagePath": "pages/my",
+        "iconPath": "/static/imgs/tab-user.png",
+        "selectedIconPath": "/static/imgs/tab-user-selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
